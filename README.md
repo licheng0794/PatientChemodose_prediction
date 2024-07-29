@@ -4,4 +4,4 @@ It is a simplified dataset including time serial chemodose for patients in one h
 The goal of the project is to develop a model to predict chemodose 
 
 I run model selection and compared performance for different models, such as Random forest, Gradientboosting and LSTM. 
-The feature importance is also calculated for the models. 
+The feature importance was also calculated for the models. 
